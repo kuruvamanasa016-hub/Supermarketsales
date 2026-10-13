@@ -6,7 +6,7 @@
 This is a group project developed as part of our Data Visualization coursework.
 
 | S.No. | Team Member Name | Roll Number |
-|--    -|---               |--           |
+|       |                  |             |
 | 1     | K. Manasa        | [         ] |
 
 ## Project Guide

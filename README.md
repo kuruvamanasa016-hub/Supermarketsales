@@ -5,9 +5,12 @@
 
 This is a group project developed as part of our Data Visualization coursework.
 
-| S.No. | Team Member Name | Roll Number |
-|       |                  |             |
-| 1     | K. Manasa        | [         ] |
+| S.No. | Team Member Name |Roll Number|
+|       |                  |           |
+|1      |   K.MANASA       | 24FH1A3109| 
+|2      |  B.THANUSHA      |24FH1A3102 |
+|3      | B.SATHVIKA       |24FH1A3105 |
+|4      |N.LATHA           |25FH5A3103 |
 
 ## Project Guide
 

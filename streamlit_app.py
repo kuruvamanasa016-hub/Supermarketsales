@@ -12,7 +12,7 @@ st.set_page_config(
 
 # ---------------- GITHUB DATASET ----------------
 # Replace this URL with your actual GitHub CSV raw URL
-GITHUB_URL = "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/dataset.csv"
+GITHUB_URL = "https://raw.githubusercontent.com/kuruvamanasa016-hub/Supermarketsales/main/supermarket_sales%20-.csv"
 
 # ---------------- LOAD DATA ----------------
 @st.cache_data

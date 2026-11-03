@@ -82,8 +82,7 @@ streamlit run app.py
 The dashboard can also be deployed using Streamlit Community Cloud by connecting the GitHub repository.
 
 ## DASHBOARD LINK
-
-[https://supermarketsales-ljvha9itwikwisvdjrrd3d.streamlit.app/]
+https://supermarketsales-ljvha9itwikwisvdjrrd3d.streamlit.app/
 
 ## Important Data Note
 
